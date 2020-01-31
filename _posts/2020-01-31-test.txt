@@ -1,4 +1,4 @@
-layout: page
+layout: post
 title: "test"
 date: 2020-01-31 16:26:30 -0000
 categories: AI MachineLearning
