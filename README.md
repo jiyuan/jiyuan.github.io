@@ -1,12 +1,10 @@
-# The Cayman theme
-
-[![Build Status](https://travis-ci.org/pages-themes/cayman.svg?branch=master)](https://travis-ci.org/pages-themes/cayman) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
+# The Home Site of Ji Yuan's GitHub
 
 *Cayman is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman), or even [use it today](#usage).*
 
 ![Thumbnail of Cayman](thumbnail.png)
 
-## Usage
+## AI
 
 To use the Cayman theme:
 
@@ -22,7 +20,7 @@ To use the Cayman theme:
     gem "github-pages", group: :jekyll_plugins
     ```
 
-## Customizing
+## BlockChain
 
 ### Configuration variables
 
@@ -82,7 +80,7 @@ Templates often rely on URLs supplied by GitHub such as links to your repository
 
 For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
 
-## Roadmap
+## Math
 
 See the [open issues](https://github.com/pages-themes/cayman/issues) for a list of proposed features (and known issues).
 
