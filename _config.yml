@@ -3,6 +3,7 @@ description: AI, blockchain, fintech.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
+excerpt_separator: <!--more-->
 
 defaults:
   -
@@ -10,4 +11,4 @@ defaults:
       path: "" # an empty string here means all files in the project
       type: "posts"
     values:
-      layout: "default"
+      layout: "post"
